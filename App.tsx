@@ -18,7 +18,7 @@ export default function App() {
 
   const medico1: Medico = {
     id: 1,
-    nome: "Dr. Roberto Silva",
+    nome: "Dra. Jhuli Hanna",
     crm: "CRM12345",
     especialidade: cardiologia,
     ativo: true,
@@ -26,7 +26,7 @@ export default function App() {
 
   const paciente1: Paciente = {
     id: 1,
-    nome: "Carlos Andrade",
+    nome: "Safira de Belchior",
     cpf: "123.456.789-00",
     email: "carlos@email.com",
     telefone: "(11) 98765-4321",
