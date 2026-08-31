@@ -30,7 +30,7 @@ function formatarExibicao(date: Date): string {
  hour: "2-digit",
  minute: "2-digit",
  });
- return `${dataParte} as ${horaParte}`;a
+ return `${dataParte} as ${horaParte}`;
 }
 
 // Formata para o backend: "2026-06-15T10:30:00"
